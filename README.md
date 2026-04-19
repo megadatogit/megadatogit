@@ -46,14 +46,14 @@ Animación 3D con **Three.js**, explorando transiciones y renderizado interactiv
 
 
 
-### 📊 EDR 2023
+### 📊 EDR México (INEGI)
 Dashboard interactivo con **SVG y CSS**, diseñado para visualización de datos.
 ![Vista previa del proyecto](./EDR2023.gif)
 
 
 
 
-### 🔐 Dash Salud Personal
+### 🔐 Dash Salud Personal (REGISTRO/INICIO)
 Sistema de registro/login con **React + API**, enfocado en seguridad y usabilidad.
 ![Vista previa del proyecto](DashDemoInicio.gif)
 
