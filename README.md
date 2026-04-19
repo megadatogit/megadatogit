@@ -39,6 +39,12 @@ Componente modular en **React** con estilos dinámicos y renderizado condicional
 
 
 
+### 🌍 Transición Planet
+Animación 3D con **Three.js**, explorando transiciones y renderizado interactivo.
+![Vista previa del proyecto](./TransicionPlanetas.gif)
+
+
+
 
 ### 📊 EDR 2023
 Dashboard interactivo con **SVG y CSS**, diseñado para visualización de datos.
@@ -61,7 +67,5 @@ Visualización en **SVG y modelo 3D (Three.js)** para seguimiento de indicadores
 
 
 
-### 🌍 Transición Planet
-Animación 3D con **Three.js**, explorando transiciones y renderizado interactivo.
-![Vista previa del proyecto](./TransicionPlanetas.gif)
+
 
