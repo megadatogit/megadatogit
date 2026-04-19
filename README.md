@@ -11,8 +11,8 @@ Me apasiona crear interfaces dinámicas, visualizaciones interactivas y experien
 ### 🚀 Tecnologías principales
 - Frontend: React, Vue, Zustand, Recharts  
 - Estilos y animaciones: CSS3, CanvasRenderingContext2D, Three.js  
-- Backend en progreso: PHP, Symfony, MariaDB  
 - Visualización: SVG dinámico, gráficos interactivos  
+- Modelos, skills, entornos agentes AI  
 
 ---
 
