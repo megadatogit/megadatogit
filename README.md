@@ -67,5 +67,7 @@ Visualización en **SVG y modelo 3D (Three.js)** para seguimiento de indicadores
 
 
 
-
-
+### 🖼️ Galería Responsiva con Transiciones
+Galería de imágenes construida en **HTML + CSS**, adaptada a distintos tamaños de pantalla.  
+Incluye **transiciones suaves** al cambiar la visualización, ofreciendo una experiencia fluida y atractiva para el usuario.
+![Vista previa del proyecto](./Galeria.gif)
