@@ -18,6 +18,12 @@ Me apasiona crear interfaces dinámicas, visualizaciones interactivas y experien
 
 ### 📌 Algunos de mis proyectos..
 
+### 🫧 Página Abstract
+Elementos y composiciones de transiciones en CSS.
+![Vista previa del proyecto](./Abstract.gif)
+
+
+
 ### 🗂️ Tablero Kanban
 Aplicación en **React** con drag‑and‑drop y gestión visual de tareas.
 ![Vista previa del proyecto](./Kanban.gif)
