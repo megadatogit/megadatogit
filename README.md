@@ -18,6 +18,13 @@ Me apasiona crear interfaces dinámicas, visualizaciones interactivas y experien
 
 ### 📌 Algunos de mis proyectos..
 
+
+### 🤖 Asis asistente virtual
+Una forma que escucha, piensa y responde contigo 
+![Vista previa del proyecto](./AsisLK.gif)
+
+
+
 ### 🫧 Página Abstract
 Elementos y composiciones de transiciones en CSS.
 ![Vista previa del proyecto](./Abstract.gif)
