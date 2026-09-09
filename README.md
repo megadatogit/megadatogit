@@ -18,6 +18,13 @@ Me apasiona crear interfaces dinámicas, visualizaciones interactivas y experien
 
 ### 📌 Algunos de mis proyectos..
 
+### ⚛️ React a tu ritmo
+Pequeños pasos. Grandes interfaces. Un curso introductorio en **React + Vite + JavaScript** con **8 módulos y 16 lecciones**, ejemplos interactivos, ejercicios guiados y un proyecto final.
+
+[![Vista previa de React a tu ritmo](https://raw.githubusercontent.com/megadatogit/CursoReact/main/docs/media/curso-react.gif)](https://github.com/megadatogit/CursoReact)
+
+[Explorar el repositorio y el curso →](https://github.com/megadatogit/CursoReact)
+
 
 ### 🤖 Asis asistente virtual
 Una forma que escucha, piensa y responde contigo 
