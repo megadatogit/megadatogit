@@ -1,15 +1,15 @@
 # 👋 Hola, soy Milton (megadato82)
 
-Soy **Frontend Developer** con experiencia en **React, Vue, CSS3, Three.js y Canvas**, actualmente ampliando mis conocimientos en **Estrucutas y modelos agentes IA**.  
-Me apasiona crear interfaces dinámicas, visualizaciones interactivas y experiencias de usuario fluidas, combinando diseño y funcionalidad.  
+Soy **Frontend Developer** con experiencia en **React, JS, CSS3, Three.js y Canvas y aprendiendo Next.js**, actualmente ampliando mis conocimientos en **Mesas de gestion con modelos y agentes IA**.  
+Me apasiona crear interfaces dinámicas, visualizaciones interactivas y experiencias de usuario fluidas, combinando diseño y funcionalidad y lo mas importante: comprender el consumo del usuario.  
 
-🎓 Estudiante de la Maestría en **Diseño de Interfaces Web** en la Universidad Internacional de La Rioja (España).  
+🎓 Egresado de la Maestría en **Diseño de Interfaces Web** en la Universidad Internacional de La Rioja (España).  
 💼 Desarrollador en **Liber Salus**, donde construyo recursos digitales para la salud en México.  
 
 ---
 
 ### 🚀 Tecnologías principales
-- Frontend: React, Vue, Zustand, Recharts  
+- Frontend: React, Vue, Zustand, Recharts, Next.js  
 - Estilos y animaciones: CSS3, CanvasRenderingContext2D, Three.js  
 - Visualización: SVG dinámico, gráficos interactivos  
 - Modelos, skills, entornos agentes AI  
@@ -17,6 +17,25 @@ Me apasiona crear interfaces dinámicas, visualizaciones interactivas y experien
 ---
 
 ### 📌 Algunos de mis proyectos..
+
+### 🦵 Catálogo de gestos en modelo 3D
+
+Mi primer proyecto en Next.js. Un catalogo de animaciones para modelos 3D usando los recursos de Mixamo y @react-three/drei.
+
+![Vista previa del proyecto](./catalogo.gif)
+
+
+### 🗺️ Maper
+
+Un mapeador que te permite filtrar lugares de tu interes sin necesidad de compartir ubicación con terceros. Puedes filtrar por categorias y configurar el radio de busqueda.
+
+![Vista previa del proyecto](./maper.gif)
+
+### 🖥️ Panel de desarrollo LiberSalus
+
+Un panel para documentar desarrollar, probar y testear componentes, módulos y consumos de servicios, antes de producción. Herramienda indispensable de desarrollo FrontEnd.  
+
+![Vista previa del proyecto](./panelDesarrollo.png)
 
 ### ⚛️ React a tu ritmo
 Pequeños pasos. Grandes interfaces. Un curso introductorio en **React + Vite + JavaScript** con **8 módulos y 16 lecciones**, ejemplos interactivos, ejercicios guiados y un proyecto final.
