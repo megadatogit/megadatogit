@@ -1,6 +1,6 @@
 # 👋 Hola, soy Milton (megadato82)
 
-Soy **Frontend Developer** con experiencia en **React, JS, CSS3, Three.js y Canvas y aprendiendo Next.js**, actualmente ampliando mis conocimientos en **Mesas de gestion con modelos y agentes IA**.  
+Soy **Frontend Developer** con experiencia en **React, JS, CSS3, Three.js y Canvas y aprendiendo Next.js**, actualmente ampliando mis conocimientos en **Mesas de gestión con modelos y agentes IA**.  
 Me apasiona crear interfaces dinámicas, visualizaciones interactivas y experiencias de usuario fluidas, combinando diseño y funcionalidad y lo mas importante: comprender el consumo del usuario.  
 
 🎓 Egresado de la Maestría en **Diseño de Interfaces Web** en la Universidad Internacional de La Rioja (España).  
