@@ -27,13 +27,13 @@ Mi primer proyecto en Next.js. Un catalogo de animaciones para modelos 3D usando
 
 ### 🗺️ Maper
 
-Un mapeador que te permite filtrar lugares de tu interes sin necesidad de compartir ubicación con terceros. Puedes filtrar por categorias y configurar el radio de busqueda.
+Un mapeador que te permite filtrar lugares de tu interés sin necesidad de compartir ubicación con terceros. Puedes filtrar por categorías y configurar el radio de busqueda.
 
 ![Vista previa del proyecto](./EmaperSs.gif)
 
 ### 🖥️ Panel de desarrollo LiberSalus
 
-Un panel para documentar desarrollar, probar y testear componentes, módulos y consumos de servicios, antes de producción. Herramienda indispensable de desarrollo FrontEnd.  
+Un panel para documentar desarrollar, probar y testear componentes, módulos y consumos de servicios, antes de producción. Herramienta indispensable de desarrollo FrontEnd.  
 
 ![Vista previa del proyecto](./panelDesarrollo.png)
 
